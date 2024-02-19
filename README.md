@@ -7,7 +7,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-<details>
+<details>-*
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -36,7 +36,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]][product-screenshot]
 
 There are many great organizers available throughout the interwebs but there's always features that one handles better than the other or something so miniscule that none of them have or are willing to entertain adding (such as timestamps on entries I can use to settle arguments with the wife). While bustling with code for fun and trying to decide on a personal side project to get into, the light went off. This would be the perfect real world project to tackle that I could build off of for years to come and add those little minute features I want -- starting with an audit of EVERYTHING.
 
