@@ -68,7 +68,6 @@ Here's the current major frameworks/libraries I'm working with in the project so
 
 - [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
 - [![Material UI][MUI]][MUI-url]
 - [![MySQL][MySQL]][MySQL-url]
 
