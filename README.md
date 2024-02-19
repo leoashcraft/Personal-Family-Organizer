@@ -69,8 +69,8 @@ Here's the current major frameworks/libraries I'm working with in the project so
 - [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
 - [![Vue][Vue.js]][Vue-url]
-- [![Material UI][MUI.com]][MUI-url]
-- [![MySQL][MySQL.com]][MySQL-url]
+- [![Material UI][MUI]][MUI-url]
+- [![MySQL][MySQL]][MySQL-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,14 +106,20 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Usage
 
-[![Category Reorder Screenshot][cats-reorder-screenshot]][cats-reorder-screenshot]
-[![List Add Screenshot][lists-add-screenshot]][lists-add-screenshot]
-
-[![Category Add Screenshot][lists-cat-add-screenshot]][lists-cat-add-screenshot]
-[![Category Icons Screenshot][lists-cat-icon-screenshot]][lists-cat-icon-screenshot]
-
-[![Lists Reorder Screenshot][lists-reorder-screenshot]][lists-reorder-screenshot]
-[![Menu Expand Screenshot][menu-expand-screenshot]][menu-expand-screenshot]
+<table>
+  <tr>
+    <td><img src="public/github-screenshots/lists-cat-add.png" alt="Category Add Screenshot" width="100%"/></td>
+    <td><img src="public/github-screenshots/lists-add.png" alt="List Add Screenshot" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/github-screenshots/menu-expand.png" alt="Menu Expand Screenshot" width="100%"/></td>
+    <td><img src="public/github-screenshots/lists-cat-icon.png" alt="Category Icons Screenshot" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/github-screenshots/cats-reorder.png" alt="Category Reorder Screenshot" width="100%"/></td>
+    <td><img src="public/github-screenshots/lists-reorder.png" alt="Lists Reorder Screenshot" width="100%"/></td>
+  </tr>
+</table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +127,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Roadmap
 
-- [ ] Mobile styling
 - [x] User login
 - [ ] User sign up
 - [x] Sidebar
@@ -155,6 +160,7 @@ _Below is an example of how you can instruct your audience on installing and set
 - [ ] Settings
   - [ ] Account Settings
   - [ ] Theme/Styling Settings
+- [ ] Mobile styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,5 +227,7 @@ Project Link: [https://github.com/leoashcraft/Personal-Family-Organizer](https:/
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
-[MySQL.com]: https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=black
+[MUI]: https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=black
+[MUI-url]: https://vuejs.org/
+[MySQL]: https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=black
 [MySQL-url]: https://mysql.com/
