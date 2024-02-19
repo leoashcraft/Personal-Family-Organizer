@@ -70,6 +70,7 @@ Here's the current major frameworks/libraries I'm working with in the project so
 - [![React][React.js]][React-url]
 - [![Material UI][MUI]][MUI-url]
 - [![MySQL][MySQL]][MySQL-url]
+- [![Sass][Sass]][SASS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,3 +228,5 @@ Project Link: [https://github.com/leoashcraft/Personal-Family-Organizer](https:/
 [MUI-url]: https://vuejs.org/
 [MySQL]: https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=black
 [MySQL-url]: https://mysql.com/
+[Sass]: https://img.shields.io/badge/SASS-BF4080?style=for-the-badge&logo=sass&logoColor=white
+[Sass-url]: https://sass-lang.com/
