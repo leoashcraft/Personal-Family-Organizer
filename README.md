@@ -116,6 +116,8 @@ To get a local copy up and running follow these simple example steps.
     <td><img src="public/github-screenshots/cats-reorder.png" alt="Category Reorder Screenshot" width="100%"/></td>
     <td><img src="public/github-screenshots/lists-reorder.png" alt="Lists Reorder Screenshot" width="100%"/></td>
   </tr>
+</table>
+<table>
   <tr>
     <td><img src="public/github-screenshots/list-items-drag.png" alt="List Items Drag Screenshot" width="100%"/></td>
   </tr>
