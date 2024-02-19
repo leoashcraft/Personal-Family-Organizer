@@ -117,6 +117,9 @@ To get a local copy up and running follow these simple example steps.
     <td><img src="public/github-screenshots/cats-reorder.png" alt="Category Reorder Screenshot" width="100%"/></td>
     <td><img src="public/github-screenshots/lists-reorder.png" alt="Lists Reorder Screenshot" width="100%"/></td>
   </tr>
+  <tr>
+    <td><img src="public/github-screenshots/list-items-drag.png" alt="List Items Drag Screenshot" width="100%"/></td>
+  </tr>
 </table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -213,12 +216,6 @@ Project Link: [https://github.com/leoashcraft/Personal-Family-Organizer](https:/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/leo3/
 [product-screenshot]: public/github-screenshots/lists.png
-[cats-reorder-screenshot]: public/github-screenshots/cats-reorder.png
-[lists-add-screenshot]: public/github-screenshots/lists-add.png
-[lists-cat-add-screenshot]: public/github-screenshots/lists-cat-add.png
-[lists-cat-icon-screenshot]: public/github-screenshots/lists-cat-icon.png
-[lists-reorder-screenshot]: public/github-screenshots/lists-reorder.png
-[menu-expand-screenshot]: public/github-screenshots/menu-expand.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
