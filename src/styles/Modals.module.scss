@@ -1,0 +1,73 @@
+@use "@/styles/base/mixin" as mixin;
+
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  .modalContainer {
+    width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    h2 {
+      margin-bottom: 20px;
+    }
+    hr {
+      width: 100%;
+      height: 1px;
+      margin-bottom: 20px;
+      background-color: rgba(102, 102, 102, 0.1);
+      border: none;
+    }
+    .modalInput {
+      width: 100%;
+      margin-bottom: 8px;
+    }
+    .modalButton {
+      margin-top: 20px;
+    }
+  }
+}
+.listItem {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 250px;
+}
+
+.listItemText {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.listItemText span,
+.listItemText input {
+  flex-grow: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border: none;
+  background: transparent;
+}
+
+.listItemText input {
+  font-size: inherit;
+  font-family: inherit;
+  color: rgb(25, 118, 210);
+  width: 100%;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.listItemIcon {
+  margin-left: auto;
+}

@@ -1,0 +1,74 @@
+@use "@/styles/base/mixin" as mixin;
+
+.listsRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 1rem;
+  .draggableList {
+    width: 400px;
+    display: flex;
+    gap: 1rem;
+    margin: 1rem;
+    .listContainer {
+      min-width: 400px;
+      min-height: 150px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 1rem;
+      .listName {
+        margin: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+    }
+  }
+}
+.listItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  border:rgb(25, 118, 210) 1px;
+}
+
+.listItemText {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.listItemText span,
+.listItemText input {
+  flex-grow: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border: none;
+  background: transparent;
+}
+
+.listItemText input {
+  font-size: inherit;
+  font-family: inherit;
+  color: rgb(25, 118, 210);
+  width: 100%;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.listItemIcon {
+  margin-left: auto;
+}
+
+.droppable--is-over {
+  background-color: rgba(212, 212, 212, 0.167);
+}
+.MuiTabs-scrollButtons.Mui-disabled {
+  opacity: 0.3;
+}

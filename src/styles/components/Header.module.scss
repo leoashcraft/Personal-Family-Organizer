@@ -1,0 +1,16 @@
+.header {
+  height: 75px;
+  grid-row-start: 1;
+  grid-column-start: 2;
+
+  grid-row-end: 2;
+  grid-column-end: 3;
+
+  color: #f7f7f7;
+  font-family: "Open Sans", sans-serif;
+  font-size: 33px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  padding-left: 33px;
+}

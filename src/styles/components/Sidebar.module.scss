@@ -1,0 +1,20 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  z-index: 1000;
+  overflow-x: hidden;
+  overflow-y: auto;
+  transition: width 0.3s;
+  width: 70px;
+}
+
+.sidebar:hover {
+  width: 300px;
+}
+
+.sidebarExpanded {
+  z-index: 1501;
+  width: 300px;
+}

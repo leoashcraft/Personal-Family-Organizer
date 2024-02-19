@@ -1,0 +1,43 @@
+@use "@/styles/base/mixin" as mixin;
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+.app {
+  min-height: 100%;
+  background-color: rgba(15, 25, 36, 0.5);
+  position: relative;
+  z-index: 5;
+  overflow-y: auto;
+}
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  transition: opacity 3s ease-in-out;
+}
+.headerSidebarExpanded {
+  margin-left: 300px;
+}
+.headerSidebarCompact {
+  margin-left: 75px;
+}
+.containerSidebarExpanded {
+  height: calc(100vh - 75px);
+  width: calc(100vw - 370px);
+
+  margin-left: 300px;
+}
+.containerSidebarCompact {
+  width: calc(100vw - 140px);
+  margin: 0 auto 70px auto;
+}

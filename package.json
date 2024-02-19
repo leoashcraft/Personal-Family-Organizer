@@ -1,0 +1,38 @@
+{
+  "name": "contrive",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@icon1/mui": "^0.0.5",
+    "@mui/icons-material": "^5.15.0",
+    "@mui/lab": "^5.0.0-alpha.160",
+    "@mui/material": "^5.15.0",
+    "bcryptjs": "^2.4.3",
+    "mysql2": "^3.6.5",
+    "next": "14.0.4",
+    "next-auth": "^4.24.5",
+    "react": "^18",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-material-icon-picker": "^0.0.7",
+    "react-material-ui-icon-picker": "^0.0.1",
+    "react-window": "^1.8.10",
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4"
+  }
+}

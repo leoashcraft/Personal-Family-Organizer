@@ -1,0 +1,20 @@
+// import React, { useEffect, useState, useRef } from "react";
+// import { getCommonServerSideProps } from "@/utils/auth";
+
+// export async function getServerSideProps(context) {
+//   const result = await getCommonServerSideProps(context);
+
+//   if ("redirect" in result) {
+//     return result;
+//   }
+//   return {
+//     props: { session: result.props.session },
+//   };
+// }
+
+// function Home({ session }) {
+// }
+function Home() {
+}
+
+export default Home;
