@@ -98,6 +98,7 @@ To get a local copy up and running follow these simple example steps.
    npm install
    ```
 3. Setup MySQL server
+4. Setup **.env** in root directory of app
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
