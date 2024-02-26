@@ -98,7 +98,23 @@ To get a local copy up and running follow these simple example steps.
    npm install
    ```
 3. Setup MySQL server
+   - Setup a database to be used for this project.
+   - Import database.sql contents into database.
 4. Setup **.env** in root directory of app
+   - There's a sample env in the repo but for reference, the **.env** should contain   
+       - JWT_SECRET=""
+       - MYSQL_DATABASE=""
+       - MYSQL_HOST=""
+       - MYSQL_PASSWORD=""
+       - MYSQL_USER=""
+       - NEXTAUTH_URL=""
+       - NEXT_PUBLIC_URL=""
+       - mYSQLDATABASE=""
+       - mYSQLUSER=""
+5. Compile and run development server
+   ```sh
+   npm run dev
+   ```
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
