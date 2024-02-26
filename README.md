@@ -101,8 +101,10 @@ To get a local copy up and running follow these simple example steps.
    - Setup a database to be used for this project
    - Import database.sql contents into database
        - **Please note:** User creation has not yet been implemented, see Lines 18 - 22 to set a username/password.
+
 4. Setup **.env** in root directory of app
    - There's a sample env in the repo but for reference
+
 5. Compile and run development server
    ```sh
    npm run dev
