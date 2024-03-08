@@ -57,6 +57,10 @@ Here's my main feature goals:
 - Birthdays!
 
   - This one isn't as important as Lists or Recipes and will likely be tied into Calendar but my wife has some specific ideas of what she'd like to have, especially when it comes to keeping up with our daughter's friend's birthdays.
+ 
+- Kids Chore Chart
+
+  - Another excellent idea we had is to virtualize our kids chore chart. Again, there's plenty of options out there for similar apps but the main focus here is customization.
 
 Of course, the issue will always remain - what's great for me may not be great for you. Maybe you want to build on my idea of a "yet another family organizer". My main features listed will most definetely expand in the near future as I begin building out. Please, if you have suggestions or want to chip in, fork the repo, create a pull request or open an issue!
 
