@@ -46,6 +46,10 @@ Here's my main feature goals:
 
   - Did I mention lists? I love lists. In fact, I decided it would only be logical to start on lists before any of the other features because 90% of the remaining features would utilize the same components in some way.
 
+- Tasks
+
+  - Closely related to Lists but with organization in mind. Being able to assign tasks to family members could really take the guess work out of who's turn it is to accomplish specific tasks. Maybe a pool of tasks that can be claimed? Incentivized for the kids? 
+
 - Recipes
 
   - My family has been trying to take a healthier approach and we've discovered it's really difficult to get away from the grimey way of life. We need an organizer of recipes we can quickly refer to. We often find recipes online and modify them in a healthy way but forget to write it down. When we do get them written down, they get stored in emails or Google Drive. It would just be a nice feature to have quick access to.
